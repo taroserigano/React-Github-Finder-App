@@ -6,7 +6,7 @@ App to search Github users and display their info. This is part of my React Fron
 
 TRY the Live Demo:! https://react-github-finder-app-chi.vercel.app/
 
-
+Search the name you want to find: 
 
 ![alt text](https://github.com/taroserigano/React-Github-Finder-App/blob/main/1.png)
 
