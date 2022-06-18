@@ -11,4 +11,4 @@ Search the name you want to find:
 ![alt text](https://github.com/taroserigano/React-Github-Finder-App/blob/main/1.png)
 
 
-![alt text](https://github.com/taroserigano/React-Github-Finder-App/blob/main/2.png)
+
